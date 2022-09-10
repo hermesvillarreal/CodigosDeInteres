@@ -1,0 +1,20 @@
+{
+    "1": {
+        "ACG_EFF_KEY": "1",
+        "CNTRY_KEY": "-2",
+        "UNQ_ID_SRC_STM": "CR",
+        "ACG_EFF_CD": "CR",
+        "ACG_EFF_NM": "Credit ",
+        "ACG_EFF_GRP_CD": "ACG_EFF",
+        "ACG_EFF_GRP_NM": "Accounting Effect"
+    },
+    "2": {
+        "ACG_EFF_KEY": "2",
+        "CNTRY_KEY": "-2",
+        "UNQ_ID_SRC_STM": "DB",
+        "ACG_EFF_CD": "DB",
+        "ACG_EFF_NM": "Debit",
+        "ACG_EFF_GRP_CD": "ACG_EFF",
+        "ACG_EFF_GRP_NM": "Accounting Effect"
+    }
+}
